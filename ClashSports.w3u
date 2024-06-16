@@ -18,7 +18,7 @@
            "url": "https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8",
            "userAgent": "",
            "isHost": "",
-           "embed":"true"},
+           "embed":true},
           {"name": "La 2",
            "info":"[Español]",
            "online":"true",
