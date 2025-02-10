@@ -1,5 +1,5 @@
 {"name":"  ClashSports⚽️🚲🏀🎾🏎🏁",
- "author":"Colás - Actualizado 10/02/2025 20:00",
+ "author":"Colás - Actualizado 10/02/2025 20:30",
  "url":"https://raw.githubusercontent.com/ClashUnico/Wiseplay/main/ClashSports.w3u",
  "image":"https://cdn.pixabay.com/photo/2016/01/20/10/46/soccer-1151288_1280.jpg",
  "imageScale":"",
@@ -1200,6 +1200,11 @@
          "image":"https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
          "imageScale":"",
          "groups":[
+            {"name":"IPTV 🇪🇸",
+               "info":"Telegram new_line",
+               "image":"https://tv-latino.com//wp-content/uploads/2021/12/ipTV-Latinologo-e1639237006258.png",
+               "url":"http://manzana.ddns.net:25461/get.php?username=franco.posada&password=79265g7&type=m3u_plus",
+               "import":false},
             {"name":"Elcano🇪🇸",
                "info":"TV/ONLINE",
                "image":"https://i.pinimg.com/originals/da/c7/4f/dac74fe769e48cde3c318bd83aac8ffd.jpg",
